@@ -1,0 +1,6 @@
+framework module Pods_SampleGoogleIma_SampleGoogleImaUITests {
+  umbrella header "Pods-SampleGoogleIma-SampleGoogleImaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

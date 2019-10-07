@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		427A95013BDE5B2AF3822156 /* Pods_SampleGoogleIma_SampleGoogleImaUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 180E62DDB2496D66F9EAD879 /* Pods_SampleGoogleIma_SampleGoogleImaUITests.framework */; };
+		569B6F59DF85D5A5B1977F3D /* Pods_SampleGoogleIma.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE4CD4E0F8634DE870FB451E /* Pods_SampleGoogleIma.framework */; };
+		A237CBC99AEF7E43983ADFA8 /* Pods_SampleGoogleImaTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 91822D67D20A380F59A433CE /* Pods_SampleGoogleImaTests.framework */; };
 		CE7132A62345DF2F00BC343C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7132A52345DF2F00BC343C /* AppDelegate.swift */; };
 		CE7132A82345DF2F00BC343C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE7132A72345DF2F00BC343C /* ViewController.swift */; };
 		CE7132AB2345DF2F00BC343C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE7132A92345DF2F00BC343C /* Main.storyboard */; };
@@ -34,6 +37,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		142F3149CE06CDE8C9909AC7 /* Pods-SampleGoogleImaTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SampleGoogleImaTests.release.xcconfig"; path = "Target Support Files/Pods-SampleGoogleImaTests/Pods-SampleGoogleImaTests.release.xcconfig"; sourceTree = "<group>"; };
+		180E62DDB2496D66F9EAD879 /* Pods_SampleGoogleIma_SampleGoogleImaUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SampleGoogleIma_SampleGoogleImaUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6CAEDAF4AD45DFA558CFA00D /* Pods-SampleGoogleIma-SampleGoogleImaUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SampleGoogleIma-SampleGoogleImaUITests.release.xcconfig"; path = "Target Support Files/Pods-SampleGoogleIma-SampleGoogleImaUITests/Pods-SampleGoogleIma-SampleGoogleImaUITests.release.xcconfig"; sourceTree = "<group>"; };
+		91822D67D20A380F59A433CE /* Pods_SampleGoogleImaTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SampleGoogleImaTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D3BED5F3C506E824562D772 /* Pods-SampleGoogleIma.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SampleGoogleIma.debug.xcconfig"; path = "Target Support Files/Pods-SampleGoogleIma/Pods-SampleGoogleIma.debug.xcconfig"; sourceTree = "<group>"; };
+		A4B894A1381D9840A3351D1C /* Pods-SampleGoogleIma-SampleGoogleImaUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SampleGoogleIma-SampleGoogleImaUITests.debug.xcconfig"; path = "Target Support Files/Pods-SampleGoogleIma-SampleGoogleImaUITests/Pods-SampleGoogleIma-SampleGoogleImaUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		B1EEF6B95E4BD21C7595BB95 /* Pods-SampleGoogleImaTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SampleGoogleImaTests.debug.xcconfig"; path = "Target Support Files/Pods-SampleGoogleImaTests/Pods-SampleGoogleImaTests.debug.xcconfig"; sourceTree = "<group>"; };
 		CE7132A22345DF2F00BC343C /* SampleGoogleIma.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleGoogleIma.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE7132A52345DF2F00BC343C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE7132A72345DF2F00BC343C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +57,8 @@
 		CE7132C12345DF3000BC343C /* SampleGoogleImaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleGoogleImaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE7132C52345DF3000BC343C /* SampleGoogleImaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleGoogleImaUITests.swift; sourceTree = "<group>"; };
 		CE7132C72345DF3000BC343C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1BF565700B857D39B6CF6FB /* Pods-SampleGoogleIma.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SampleGoogleIma.release.xcconfig"; path = "Target Support Files/Pods-SampleGoogleIma/Pods-SampleGoogleIma.release.xcconfig"; sourceTree = "<group>"; };
+		DE4CD4E0F8634DE870FB451E /* Pods_SampleGoogleIma.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SampleGoogleIma.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				569B6F59DF85D5A5B1977F3D /* Pods_SampleGoogleIma.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A237CBC99AEF7E43983ADFA8 /* Pods_SampleGoogleImaTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				427A95013BDE5B2AF3822156 /* Pods_SampleGoogleIma_SampleGoogleImaUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +96,8 @@
 				CE7132B92345DF3000BC343C /* SampleGoogleImaTests */,
 				CE7132C42345DF3000BC343C /* SampleGoogleImaUITests */,
 				CE7132A32345DF2F00BC343C /* Products */,
+				E73F42916EF87E08CBEA8495 /* Pods */,
+				FCD2B98BB381544C0F989749 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,6 +142,30 @@
 			path = SampleGoogleImaUITests;
 			sourceTree = "<group>";
 		};
+		E73F42916EF87E08CBEA8495 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				9D3BED5F3C506E824562D772 /* Pods-SampleGoogleIma.debug.xcconfig */,
+				D1BF565700B857D39B6CF6FB /* Pods-SampleGoogleIma.release.xcconfig */,
+				A4B894A1381D9840A3351D1C /* Pods-SampleGoogleIma-SampleGoogleImaUITests.debug.xcconfig */,
+				6CAEDAF4AD45DFA558CFA00D /* Pods-SampleGoogleIma-SampleGoogleImaUITests.release.xcconfig */,
+				B1EEF6B95E4BD21C7595BB95 /* Pods-SampleGoogleImaTests.debug.xcconfig */,
+				142F3149CE06CDE8C9909AC7 /* Pods-SampleGoogleImaTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		FCD2B98BB381544C0F989749 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DE4CD4E0F8634DE870FB451E /* Pods_SampleGoogleIma.framework */,
+				180E62DDB2496D66F9EAD879 /* Pods_SampleGoogleIma_SampleGoogleImaUITests.framework */,
+				91822D67D20A380F59A433CE /* Pods_SampleGoogleImaTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +173,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE7132CA2345DF3000BC343C /* Build configuration list for PBXNativeTarget "SampleGoogleIma" */;
 			buildPhases = (
+				BAD0ED6EB975947800C8C7A1 /* [CP] Check Pods Manifest.lock */,
 				CE71329E2345DF2F00BC343C /* Sources */,
 				CE71329F2345DF2F00BC343C /* Frameworks */,
 				CE7132A02345DF2F00BC343C /* Resources */,
+				604D9736A2D28BF208D91B80 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -149,6 +192,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE7132CD2345DF3000BC343C /* Build configuration list for PBXNativeTarget "SampleGoogleImaTests" */;
 			buildPhases = (
+				3FEE6E2865ED8EB5068177BA /* [CP] Check Pods Manifest.lock */,
 				CE7132B22345DF3000BC343C /* Sources */,
 				CE7132B32345DF3000BC343C /* Frameworks */,
 				CE7132B42345DF3000BC343C /* Resources */,
@@ -167,9 +211,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE7132D02345DF3000BC343C /* Build configuration list for PBXNativeTarget "SampleGoogleImaUITests" */;
 			buildPhases = (
+				109B5CB06EC57CD147B8A099 /* [CP] Check Pods Manifest.lock */,
 				CE7132BD2345DF3000BC343C /* Sources */,
 				CE7132BE2345DF3000BC343C /* Frameworks */,
 				CE7132BF2345DF3000BC343C /* Resources */,
+				8C2DFA68BAADB3CCB07F42DF /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -250,6 +296,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		109B5CB06EC57CD147B8A099 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SampleGoogleIma-SampleGoogleImaUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3FEE6E2865ED8EB5068177BA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SampleGoogleImaTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		604D9736A2D28BF208D91B80 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SampleGoogleIma/Pods-SampleGoogleIma-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SampleGoogleIma/Pods-SampleGoogleIma-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SampleGoogleIma/Pods-SampleGoogleIma-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8C2DFA68BAADB3CCB07F42DF /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SampleGoogleIma-SampleGoogleImaUITests/Pods-SampleGoogleIma-SampleGoogleImaUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SampleGoogleIma-SampleGoogleImaUITests/Pods-SampleGoogleIma-SampleGoogleImaUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SampleGoogleIma-SampleGoogleImaUITests/Pods-SampleGoogleIma-SampleGoogleImaUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BAD0ED6EB975947800C8C7A1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SampleGoogleIma-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		CE71329E2345DF2F00BC343C /* Sources */ = {
@@ -430,6 +579,7 @@
 		};
 		CE7132CB2345DF3000BC343C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9D3BED5F3C506E824562D772 /* Pods-SampleGoogleIma.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -448,6 +598,7 @@
 		};
 		CE7132CC2345DF3000BC343C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D1BF565700B857D39B6CF6FB /* Pods-SampleGoogleIma.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -466,6 +617,7 @@
 		};
 		CE7132CE2345DF3000BC343C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B1EEF6B95E4BD21C7595BB95 /* Pods-SampleGoogleImaTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -487,6 +639,7 @@
 		};
 		CE7132CF2345DF3000BC343C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 142F3149CE06CDE8C9909AC7 /* Pods-SampleGoogleImaTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -508,6 +661,7 @@
 		};
 		CE7132D12345DF3000BC343C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A4B894A1381D9840A3351D1C /* Pods-SampleGoogleIma-SampleGoogleImaUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -528,6 +682,7 @@
 		};
 		CE7132D22345DF3000BC343C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6CAEDAF4AD45DFA558CFA00D /* Pods-SampleGoogleIma-SampleGoogleImaUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
